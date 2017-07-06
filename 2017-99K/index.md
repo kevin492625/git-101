@@ -1,11 +1,11 @@
 # 我的個人簡介
 
 ## 基本資料
-- 姓名：
-- 暱稱：
-- 性別：
-- Email：
-- Slack ID：
+- 姓名：許承澤
+- 暱稱：kevin
+- 性別：男
+- Email：kevin.hsu@viptjob.com
+- Slack ID：kevin
 
 ## 技能評級
 - JavaScript：＊＊＊＊＊
